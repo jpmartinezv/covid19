@@ -1,15 +1,11 @@
 País,Pruebas realizadas,Fecha de actualización,Pruebas diarias,Fecha de declaración (pruebas diarias),Casos confirmados,Fallecidos,Fecha de casos y fallecidos,Fuente pruebas realizadas,Fuente pruebas diarias,Fuente Casos confirmados y fallecidos,Observación
-Perú,3841,19/03/2020,-,-,234,1,19/03/2020,https://www.gob.pe/8662,-,https://www.gob.pe/8662,
-Colombia,3623,19/03/2020,-,-,108,0,19/03/2020,https://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx,-,https://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx,
+:pe: Perú,3841,19/03/2020,-,-,234,1,19/03/2020,https://www.gob.pe/8662,-,https://www.gob.pe/8662,
+:co: Colombia,3623,19/03/2020,-,-,108,0,19/03/2020,https://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx,-,https://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx,
 Ecuador,855,19/03/2020,-,-,199,3,19/03/2020,,,https://www.salud.gob.ec/actualizacion-de-casos-de-coronavirus-en-ecuador/,Los laboratorios privados pueden realizar la prueba. La ministra Romo señaló que el precio máximo será de $80 si la ordena un médico del Ministerio de Salud Pública y $120 si la deriva un médico privado. Aclaró que nadie puede ir a un laboratorio a hacerse la prueba biomolecular PCR individualmente.
 Argentina,575,18/03/2020,,,79,2,,,,,
 Brasil,2269,18/03/2020,-,-,428,4,18/03/2020,https://twitter.com/minsaude/status/1240418672528760832,-,https://twitter.com/minsaude/status/1240418672528760832,
 Chile,-,-,800,18/03/2020,342,0,19/03/2020,-,https://www.gob.cl/noticias/ministerio-de-salud-reporta-37-nuevos-casos-confirmados-de-covid-19-y-cifra-asciende-238-contagiados-en-el-pais/,https://www.gob.cl/noticias/ministerio-de-salud-informa-342-casos-confirmados-de-covid-19-en-chile/,"El subsecretario de Redes Asistenciales, Arturo Zúñiga, informó. Se están haciendo, aproximadamente, 800 exámenes de Covid-19 al día, con la capacidad de hacer hasta 3 mil diarios y se adquirieron 250 mil más."
-Paraguay,-,-,-,-,11,0,17/03/2020,-,https://www.mspbs.gov.py/covid-19-actualizacion.php,https://www.mspbs.gov.py/covid-19-actualizacion.php,"Muestras procesadas:
-- 17 DE MARZO: 26
-- 16 DE MARZO: 27
-- 15 DE MARZO: 33
-"
+Paraguay,-,-,-,-,11,0,17/03/2020,-,https://www.mspbs.gov.py/covid-19-actualizacion.php,https://www.mspbs.gov.py/covid-19-actualizacion.php,"Muestras procesadas: - 17 DE MARZO: 26 - 16 DE MARZO: 27 - 15 DE MARZO: 33"
 Uruguay,-,-,-,-,79,0,18/03/2020,-,-,https://twitter.com/MSPUruguay/status/1240448613995724800,
 Venezuela,-,-,-,-,42,0,19/03/2020,-,-,https://talcualdigital.com/venezuela-llega-a-42-casos-confirmados-de-covid-19/,
 Bolivia,-,-,-,-,15,0,19/03/2020,-,-,https://twitter.com/MinSaludBolivia/status/1240615631839518720,
